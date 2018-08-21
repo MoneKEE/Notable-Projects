@@ -18,8 +18,3 @@ An Excel macro-enabled workbook which company leadership uses to evaluate system
 
 Eliminated unnecessary delays in patient billing by crafting a scheduled, unsupervised agent to search within a state-managed database of New York physicians, and identify those who regularly refer patients to the hospital. And when a match was found the agent updated null values in an associated physician record in the hospital's Provider Master File.
 
-## Direct Admission Notification
-
-##### Created: Jan 2012
- 
-Reduced patient length of stay by creating a scheduled, unsupervised agent to alert Referring Physicians, via email, when their patient was admitted to the facility for Direct Admission stays.
