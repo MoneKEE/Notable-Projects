@@ -49,6 +49,7 @@ Public Function GetIE() As SHDocVw.InternetExplorer
 End Function
 
 Public Function FocusWindow()
+' Puts the IE browser window in focus
     Dim iret    As Long
     Dim IE      As SHDocVw.InternetExplorer
     
